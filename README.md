@@ -1,6 +1,6 @@
 # FCC-JavaScript-Algorithms-and-Data-Structures-Certification
 
-Source code for completing the certification.
+Source code for completing the JavaScript Algorithms and Data Structures Certification from freeCodeCamp.org
 
 ### Basic Javascript
 
