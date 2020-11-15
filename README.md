@@ -2,7 +2,7 @@
 
 Source code for completing the JavaScript Algorithms and Data Structures Certification from freeCodeCamp.org
 
-### Basic Javascript
+### Basic Javascript (111)
 
 - Comment Your JavaScript Code
 - Declare JavaScript Variables
@@ -116,7 +116,7 @@ Source code for completing the JavaScript Algorithms and Data Structures Certifi
 - Use Recursion to Create a Countdown
 - Use Recursion to Create a Range of Numbers
 
-### ES6
+### ES6 (31)
 
 - Explore Differences Between the var and let Keywords
 - Compare Scopes of the var and let Keywords
@@ -150,7 +150,7 @@ Source code for completing the JavaScript Algorithms and Data Structures Certifi
 - Handle a Fulfilled Promise with then
 - Handle a Rejected Promise with catch
 
-### Regular Expressions
+### Regular Expressions (33)
 
 - Using the Test Method
 - Match Literal Strings
@@ -186,7 +186,7 @@ Source code for completing the JavaScript Algorithms and Data Structures Certifi
 - Use Capture Groups to Search and Replace
 - Remove Whitespace from Start and End
 
-### Debugging
+### Debugging (12)
 
 - Use the JavaScript Console to Check the Value of a Variable
 - Understanding the Differences between the freeCodeCamp and Browser Console
@@ -200,3 +200,26 @@ Source code for completing the JavaScript Algorithms and Data Structures Certifi
 - Catch Off By One Errors When Using Indexing
 - Use Caution When Reinitializing Variables Inside a Loop
 - Prevent Infinite Loops with a Valid Terminal Condition
+
+### Basic Data Structures (20)
+
+- Use an Array to Store a Collection of Data
+- Access an Array's Contents Using Bracket Notation
+- Add Items to an Array with push() and unshift()
+- Remove Items from an Array with pop() and shift()
+- Remove Items Using splice()
+- Add Items Using splice()
+- Copy Array Items Using slice()
+- Copy an Array with the Spread Operator
+- Combine Arrays with the Spread Operator
+- Check For The Presence of an Element With indexOf()
+- Iterate Through All an Array's Items Using For Loops
+- Create complex multi-dimensional arrays
+- Add Key-Value Pairs to JavaScript Objects
+- Modify an Object Nested Within an Object
+- Access Property Names with Bracket Notation
+- Use the delete Keyword to Remove Object Properties
+- Check if an Object has a Property
+- Iterate Through the Keys of an Object with a for...in Statement
+- Generate an Array of All Object Keys with Object.keys()
+- Modify an Array Stored in an Object
