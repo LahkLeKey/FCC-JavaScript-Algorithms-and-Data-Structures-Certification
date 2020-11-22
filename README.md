@@ -322,3 +322,11 @@ Source code for completing the JavaScript Algorithms and Data Structures Certifi
 - Arguments Optional
 - Make a Person
 - Map the Debris
+
+### Projects
+
+Palindrome Checker
+Roman Numeral Converter
+Caesars Cipher
+Telephone Number Validator
+Cash Register
