@@ -298,3 +298,27 @@ Source code for completing the JavaScript Algorithms and Data Structures Certifi
 - Use the every Method to Check that Every Element in an Array Meets a Criteria
 - Use the some Method to Check that Any Elements in an Array Meet a Criteria
 - Introduction to Currying and Partial Application
+
+### Intermediate Algorithm Scripting
+
+- Sum All Numbers in a Range
+- Diff Two Arrays
+- Seek and Destroy
+- Wherefore art thou
+- Spinal Tap Case
+- Pig Latin
+- Search and Replace
+- DNA Pairing
+- Missing letters
+- Sorted Union
+- Convert HTML Entities
+- Sum All Odd Fibonacci Numbers
+- Sum All Primes
+- Smallest Common Multiple
+- Drop it
+- Steamroller
+- Binary Agents
+- Everything Be True
+- Arguments Optional
+- Make a Person
+- Map the Debris
