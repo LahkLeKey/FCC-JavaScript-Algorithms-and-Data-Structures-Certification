@@ -299,7 +299,7 @@ Source code for completing the JavaScript Algorithms and Data Structures Certifi
 - Use the some Method to Check that Any Elements in an Array Meet a Criteria
 - Introduction to Currying and Partial Application
 
-### Intermediate Algorithm Scripting
+### Intermediate Algorithm Scripting (21)
 
 - Sum All Numbers in a Range
 - Diff Two Arrays
