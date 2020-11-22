@@ -323,7 +323,7 @@ Source code for completing the JavaScript Algorithms and Data Structures Certifi
 - Make a Person
 - Map the Debris
 
-### Projects
+### Projects (5)
 
 Palindrome Checker
 Roman Numeral Converter
